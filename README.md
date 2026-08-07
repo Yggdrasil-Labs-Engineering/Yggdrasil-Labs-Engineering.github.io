@@ -6,6 +6,12 @@ This repository contains the source code for the Yggdrasil Labs Engineering webs
 
 ---
 
+Current Release
+
+Version 0.1.0
+
+---
+
 ## Mission
 
 Yggdrasil Labs Engineering is focused on designing and building professional software with an emphasis on:
